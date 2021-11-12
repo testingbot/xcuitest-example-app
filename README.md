@@ -1,5 +1,7 @@
 # xcuitest-sample-app
 
+![TestingBot logo](resources/testingbot-logo.png?raw=true "Logo")
+
 This is a sample iOS app, created by TestingBot, to demonstrate how to use [XCUITest](https://developer.apple.com/library/archive/documentation/DeveloperTools/Conceptual/testing_with_xcode/chapters/09-ui_testing.html) on [TestingBot](https://testingbot.com).
 The app offers two input-fields, where you can enter numbers.
 Upon clicking the 'calculate' button, the sum field will contain the sum of the two numbers that were entered.
@@ -16,6 +18,8 @@ xcodebuild -project xcuitest-sample.xcodeproj -scheme xcuitest-sample -destinati
 ```
 
 or any other kind of simulator or device udid.
+
+![Screenshot XCUITest](resources/screenshot.png?raw=true "Screenshot")
 
 ## More information
 
